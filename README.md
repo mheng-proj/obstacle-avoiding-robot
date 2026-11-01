@@ -1,6 +1,6 @@
 # Car
 
-#Materials
+# Materials
 - 18cm*10cm carboard
 - 3 wheels 3cm radius
 - 5 rubber bands
@@ -15,13 +15,13 @@
 
 
 
-#Car Body Setup Images
+# Car Body Setup Images
 It shows how I setup the Motors without using any glue gun and with simply 3 rubber bands. (Bottom side of the Car)
 
-#Finalized images
+# Finalized images
 It shows the final setup of my project
 
-#Steps
+# Steps
 - Have all the materials set.
 - Cut the slit in the middle front( not too big)
 - Follow the Car Body Setup images
