@@ -101,11 +101,11 @@ void loop() {
 
   if (cm <= 5) {
     Stop();
-    pos = 0;
+    pos = 0; //check left
     servo1.write(pos);
     delay(500);
     left = cm;
-    pos = 180;
+    pos = 180; //check right
     servo1.write(pos);
     delay(500);
     right = cm;
