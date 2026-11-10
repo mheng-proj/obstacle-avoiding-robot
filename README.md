@@ -60,20 +60,13 @@ It shows how I setup the Motors without using any glue gun and with simply 3 rub
 It shows the final setup of my project
 
 # Steps
--Gather all the materials.
-
--Cut a slit at the front centre of the cardboard, ensuring it is not too large.
-
--Follow the Robot Body Setup images to mount the motors.
-
--Secure the breadboard using rubber bands.
-
--Attach the two drive wheels to the motor shafts.
-
--Insert the remaining wheel into a stick and tape it underneath the chassis, next to the slit.
-
--Use the remaining rubber bands to attach the SG90 servo and HC-SR04 sensor.
-
--Secure the SG90 servo in the available space in front of the slit using a glue gun.
+- Gather all the materials.
+- Cut a slit at the front centre of the cardboard, ensuring it is not too large.
+- Follow the Robot Body Setup images to mount the motors.
+- Secure the breadboard using rubber bands.
+- Attach the two drive wheels to the motor shafts.
+- Insert the remaining wheel into a stick and tape it underneath the chassis, next to the slit.
+- Use the remaining rubber bands to attach the SG90 servo and HC-SR04 sensor.
+- Secure the SG90 servo in the available space in front of the slit using a glue gun.
 
 
