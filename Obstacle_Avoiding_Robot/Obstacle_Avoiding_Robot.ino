@@ -119,14 +119,7 @@ void setup() {
 
 void loop() {
 
-  digitalWrite(UltraSend,LOW);
-  delayMicroseconds(2);// short low pulse and give a clear high pulse for a clear answer _ _ - - - - - _ _
-  digitalWrite(UltraSend,HIGH);
-  delayMicroseconds(5);
-  digitalWrite(UltraSend,LOW);
-
-  duration = pulseIn(UltraRec,HIGH); // read the duration of the high pulse
-  cm = microsecondsToCentimeters(duration);
+  cm = ReadDistance();
 
   //moving forward
   digitalWrite(AIN1, HIGH);//left forward
